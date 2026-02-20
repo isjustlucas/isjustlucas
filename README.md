@@ -41,17 +41,22 @@ Oi, me chamo Lucas de Lima Almeida Andrade, tenho 18 anos e sou natural da Bahia
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
+<p align="left">
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=isjustlucas&bg_color=191724&title_color=ebbcba&text_color=e0def4&icon_color=31748f&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br" 
+  />
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=isjustlucas&bg_color=191724&title_color=ebbcba&text_color=e0def4&icon_color=31748f&show_icons=true&hide_border=false&count_private=true" height="170" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isjustlucas&bg_color=191724&title_color=ebbcba&text_color=e0def4&layout=compact&hide_border=false" height="170" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isjustlucas&bg_color=191724&title_color=ebbcba&text_color=e0def4&layout=compact&hide_border=false&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ---
