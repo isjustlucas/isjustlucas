@@ -60,8 +60,4 @@ Oi, me chamo Lucas de Lima Almeida Andrade, tenho 18 anos e sou natural da Bahia
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=isjustlucas&theme=rose_pine&hide_border=false" height="180" alt="GitHub Streak" />
-</p>
-
 ---
