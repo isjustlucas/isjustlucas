@@ -1,15 +1,13 @@
-# Olá, meu nome é Lucas! [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/lucaslaandrade/)
+# Olá, meu nome é Lucas! 👋
 
-### Linguagens que uso e estudo:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslaandrade/)
+
+### Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isjustlucas&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isjustlucas&layout=compact)
 
 ### Sobre
+Desenvolvedor Backend. Focado em construir APIs robustas, performáticas e escaláveis utilizando o ecossistema Java/Spring.
 
-Desenvolvedor Fullstack com ênfase no Back-end.
+---
+[![isjustlucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=isjustlucas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
