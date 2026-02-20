@@ -45,18 +45,17 @@ Oi, me chamo Lucas de Lima Almeida Andrade, tenho 18 anos e sou natural da Bahia
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="185" 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=isjustlucas&bg_color=191724&title_color=ebbcba&text_color=e0def4&icon_color=31748f&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
+  <img 
     align="left" 
     alt="Top Languages" 
-    height="260" 
+    height="185" 
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isjustlucas&bg_color=191724&title_color=ebbcba&text_color=e0def4&layout=compact&hide_border=false&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<br clear="left"/>
 
 ---
