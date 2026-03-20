@@ -27,9 +27,9 @@
     <img src="https://img.shields.io/badge/Instagram-eb6f92?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/isjustlucas?tab=repositories">
-    <img src="https://img.shields.io/github/stars/isjustlucas?color=f6c177&style=for-the-badge&label=ESTRELAS&logo=github" alt="Total de estrelas">
+    <img src="https://img.shields.io/github/stars/isjustlucas?color=f6c177&style=for-the-badge&label=STARS&logo=github" alt="Total of Stars">
   </a>
-  <img src="https://img.shields.io/github/followers/isjustlucas?style=for-the-badge&color=9ccfd8&logo=github&label=SEGUIDORES" />
+  <img src="https://img.shields.io/github/followers/isjustlucas?style=for-the-badge&color=9ccfd8&logo=github&label=FOLLOWERS" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <div align="left">
   <img 
