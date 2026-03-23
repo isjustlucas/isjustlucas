@@ -67,7 +67,6 @@
 <br clear="left" />
 
 ---
-
-<img width="861" height="170" alt="ascii-art-text__3_-removebg-preview" src="https://github.com/user-attachments/assets/85a0f9c0-2854-4a40-a561-4b99a43a4350" />
+<img width="953" height="114" alt="ascii-art-text-removebg-preview" src="https://github.com/user-attachments/assets/b35c3f4f-fd0a-4636-9bca-1a430c706ad8" />
 
 ---
