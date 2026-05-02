@@ -37,13 +37,13 @@
 ### 🤖 Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ebbcba?style=for-the-badge&logo=openjdk&logoColor=191724" />
-  <img src="https://img.shields.io/badge/Spring_Boot-31748f?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-9ccfd8?style=for-the-badge&logo=postgresql&logoColor=191724" />
-  <img src="https://img.shields.io/badge/Maven-eb6f92?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-e0def4?style=for-the-badge&logo=git&logoColor=191724" />
-  <img src="https://img.shields.io/badge/Docker-524f67?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+  
+<img src="https://img.shields.io/badge/Java-ebbcba?style=for-the-badge&logo=openjdk&logoColor=191724" />
+<img src="https://img.shields.io/badge/Maven-eb6f92?style=for-the-badge&logo=apache-maven&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-c4a7e7?style=for-the-badge&logo=git&logoColor=191724" />
+<img src="https://img.shields.io/badge/PostgreSQL-9ccfd8?style=for-the-badge&logo=postgresql&logoColor=191724" />
+<img src="https://img.shields.io/badge/Spring_Boot-31748f?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-524f67?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
 
