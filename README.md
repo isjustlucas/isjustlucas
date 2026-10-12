@@ -12,7 +12,7 @@
 + I’m from Bahia and currently live in Feira de Santana.
 | 18 years old.
 | I am currently studying Information Systems at IFBA in Feira de Santana.
-# Interested in Java + Spring.
+# Interested on being a fullstack dev.
 ```
 
 ---
