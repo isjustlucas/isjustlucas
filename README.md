@@ -59,6 +59,6 @@
 </p>
 
 ---
-<img width="953" height="114" alt="ascii-art-text-removebg-preview" src="https://github.com/user-attachments/assets/b35c3f4f-fd0a-4636-9bca-1a430c706ad8" />
+<img width="953" height="114" alt="banner-rosepine-gradiente" src="https://github.com/user-attachments/assets/ca3624aa-3a61-4055-9e56-025f33d951fb" />
 
 ---
