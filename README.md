@@ -49,22 +49,14 @@
 
 ### 📊 Statistics
 
-<div align="left">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=isjustlucas&bg_color=191724&title_color=ebbcba&text_color=e0def4&icon_color=31748f&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br" 
-    height="170" 
-    align="left" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isjustlucas&bg_color=191724&title_color=ebbcba&text_color=e0def4&layout=compact&hide_border=false&custom_title=Tecnologias&langs_count=9" 
-    height="170" 
-    align="left" 
-    alt="Top Languages" 
-  />
-</div>
+<p align="left">
+  <img src="https://ghstats.dev/api/card?username=isjustlucas&theme=rosepine&hide_title=true" alt="GitHub Stats Card" height="280" />
+  <img src="https://ghstats.dev/api/langs?username=isjustlucas&theme=rosepine&layout=donut_vertical" alt="Top Languages" height="300" />
+</p>
 
-<br clear="left" />
+<p align="left">
+  <img src="https://ghstats.dev/api/sparkline?username=isjustlucas&theme=rosepine&days=30&width=700&height=150" alt="Contribution Sparkline" width="652" />
+</p>
 
 ---
 <img width="953" height="114" alt="ascii-art-text-removebg-preview" src="https://github.com/user-attachments/assets/b35c3f4f-fd0a-4636-9bca-1a430c706ad8" />
